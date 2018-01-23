@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2017.10.11" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" infinite="0" nextobjectid="2">
+ <tileset firstgid="1" source="untitled.tsx"/>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="csv">
+20,4,4,4,4,4,4,4,4,40,
+20,0,0,0,0,0,0,0,0,40,
+20,0,0,0,0,0,0,0,0,40,
+20,0,0,0,0,0,0,0,0,40,
+20,0,0,0,0,0,0,0,0,40,
+20,0,0,0,0,0,0,0,0,40,
+20,0,0,0,0,0,0,0,0,40,
+20,0,0,0,0,0,0,0,0,40,
+20,0,0,0,0,0,0,0,0,40,
+20,38,38,38,38,38,38,38,38,40
+</data>
+ </layer>
+ <objectgroup name="collision">
+  <object id="1" x="32" y="33">
+   <polyline points="0,0 0,254 255,255 256,-1 1,-1"/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,90 @@
+
+run2.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 259, 15
+  size: 118, 107
+  orig: 118, 107
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 133, 17
+  size: 124, 105
+  orig: 124, 105
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1229, 6
+  size: 92, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 839, 11
+  size: 103, 111
+  orig: 103, 111
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 21
+  size: 129, 101
+  orig: 129, 101
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 379, 25
+  size: 125, 97
+  orig: 125, 97
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 506, 23
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 623, 17
+  size: 108, 105
+  orig: 108, 105
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 733, 12
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 944, 4
+  size: 94, 118
+  orig: 94, 118
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1040, 3
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1135, 2
+  size: 92, 120
+  orig: 92, 120
+  offset: 0, 0
+  index: -1
